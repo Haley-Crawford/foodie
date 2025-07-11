@@ -5,7 +5,7 @@ import { Ban } from './components/Ban'
 import axios from 'axios'
 import './App.css'
 
-const API_KEY = '92edfdb3f6b842238f7133ef36998139'
+const API_KEY = ''
 
 function App() {
   const [food, setFood] = useState(null)
